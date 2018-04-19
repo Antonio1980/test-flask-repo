@@ -1,0 +1,51 @@
+{
+  "id": "90436825-6519-4061-a131-f4ddd68455a8",
+  "name": "Stores REST API",
+  "values": [
+    {
+      "key": "url",
+      "value": "http://127.0.0.1:5000",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "store_id",
+      "value": "5",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "password",
+      "value": "123123",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "user",
+      "value": "anton5",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "access_token",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1MjMxMjQ4MTIsImlhdCI6MTUyMzEyNDUxMiwibmJmIjoxNTIzMTI0NTEyLCJpZGVudGl0eSI6MTJ9.Mn1Irj99fIBQ2kInwcHo3ImSKXEXs-8yqyhrltV6wc0",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "store",
+      "value": "test_store",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "item",
+      "value": "arBBAC",
+      "enabled": true,
+      "type": "text"
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2018-04-07T18:16:14.482Z",
+  "_postman_exported_using": "Postman/6.0.10"
+}
